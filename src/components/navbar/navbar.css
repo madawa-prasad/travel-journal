@@ -1,0 +1,13 @@
+nav {
+  width: 550px;
+  height: 55px;
+  background-color: #f55a5a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-text {
+  color: white;
+  margin-left: 7px;
+}

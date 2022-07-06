@@ -1,0 +1,52 @@
+.post-container {
+  height: 168px;
+  display: flex;
+  flex-direction: row;
+  max-width: 650px;
+  margin-bottom: 36px;
+  align-items: center;
+}
+
+.post-image {
+  height: 168px;
+  width: 125px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 19px;
+}
+
+.post-location {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.location-icon {
+  width: 7px;
+  height: auto;
+  margin-right: 4px;
+}
+
+.location-name {
+  font-size: 10.2px;
+  letter-spacing: 4px;
+}
+
+.location-link {
+  font-size: 10.2px;
+  color: gray;
+  margin-left: 12px;
+}
+
+.post-title {
+  margin-top: 8px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.duration {
+  font-size: 10.2px;
+  font-weight: bold;
+}
+.text {
+  font-size: 10.2px;
+}
