@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Post from '../post/Post';
 import './main.css';
 import data from '../../data';

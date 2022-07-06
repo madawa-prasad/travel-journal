@@ -1,5 +1,6 @@
 import React from 'react';
-import locationIcon from '../../images/locationIcon.png';
+
+import locationIcon from '../../assets/images/locationIcon.png';
 import './post.css';
 
 const Post = (props) => {

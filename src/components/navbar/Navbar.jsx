@@ -1,5 +1,6 @@
 import React from 'react';
-import webIcon from '../../images/webIcon.png';
+
+import webIcon from '../../assets/images/webIcon.png';
 import './navbar.css';
 
 const Navbar = () => {
